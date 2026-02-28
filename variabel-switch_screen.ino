@@ -1,3 +1,5 @@
+// UI ada di eez/layar
+
 #include <lvgl.h>
 #include "Arduino_GFX_Library.h"
 #include "pin_config.h"
